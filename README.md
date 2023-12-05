@@ -31,6 +31,13 @@ On a personal level, I long to get to know cultures different from mine, such as
 - Coderhouse Python Course in https://www.coderhouse.com/
 - Degree in English from Misericordia School of English
 
+<h1 align="center">Contacto‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Contact Me<h1/>
+<p align="center">
+<a href="https://twitter.com/elques0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elques0s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gino-ruben-giorgi-307a4926a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gino ruben giorgi" height="30" width="40" /></a>
+<a href="https://instagram.com/ginogiorgi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ginogiorgi1" height="30" width="40" /></a>
+<p/>
+
 <h2 align="center">Lenguajes y herramientas‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Languages and Tools</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
@@ -51,9 +58,3 @@ On a personal level, I long to get to know cultures different from mine, such as
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&show_icons=true&locale=en" alt="ginogiorgi" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginogiorgi&" alt="ginogiorgi" /></p>
-<h1 align="center">Contacto‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Contact Me<h1/>
-<p align="center">
-<a href="https://twitter.com/elques0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elques0s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gino-ruben-giorgi-307a4926a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gino ruben giorgi" height="30" width="40" /></a>
-<a href="https://instagram.com/ginogiorgi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ginogiorgi1" height="30" width="40" /></a>
-<p/>
