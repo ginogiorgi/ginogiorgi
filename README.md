@@ -38,17 +38,28 @@ On a personal level, I long to get to know cultures different from mine, such as
 ‎ ‎ 
 
 <h1 align="center">Experiencia‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Experience</h2>
+<details close>
+<summary align="center"><h2>Español</h2></summary>
+<br>
 
-- Cursos de programación Full Stack realizados en la plataforma de Platzi https://platzi.com/.
+- Cursos de programación Full Stack realizados en la plataforma de Platzi https://platzi.com/
 - Curso de Python de Coderhouse en https://www.coderhouse.com/
 - Titulo en Ingles de Misericordia School of English
 
+</details>
+
 ------------
-- Full Stack programming courses carried out on the Platzi platform https://platzi.com/.
+
+<details close>
+<summary align="center"><h2>English</h2></summary>
+<br>
+
+- Full Stack programming courses carried out on the Platzi platform https://platzi.com/
 - Coderhouse Python Course in https://www.coderhouse.com/
 - Degree in English from Misericordia School of English
 
-‎ ‎ 
+</details>
+‎ 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
@@ -72,10 +83,25 @@ On a personal level, I long to get to know cultures different from mine, such as
 <a href="https://instagram.com/ginogiorgi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ginogiorgi1" height="30" width="40" /></a>
 <div/>
 ‎ ‎ 
-
 ‎ ‎ 
+ 
+<p>My GitHub Stats<p/>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ginogiorgi&show_icons=true&theme=dark&locale=en&layout=compact" alt="ginogiorgi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&show_icons=true&locale=en&theme=dark" alt="ginogiorgi" /></p>
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://github-profile-trophy.vercel.app/?username=ginogiorgi&row=3&column=4&no-bg=true&theme=tokyonight"/>
+        </td>
+        <td align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginogiorgi&theme=tokyonight"/>
+        </td> 
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&langs_count=10&layout=compact&theme=tokyonight"/>
+        </td>
+    </tr>
+</table>
