@@ -1,4 +1,7 @@
 <h1 align="center">Sobre mi‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  About me </h2>
+<details close>
+<summary><b>Español</b></summary>
+<br>
 Mi nombre completo es Gino Rubén Giorgi, nacido el 7 de enero de 1999. Oriundo de Rosario, Argentina. Apasionado del hardware y el software desde chico. Mis habilidades principales son de JavaScript, pero me gusta experimentar con tecnologías más avanzadas y raras.
 
 Me considero muy perfeccionista, siempre trato de entregar el mejor producto posible, y me interesa escuchar y adquirir opiniones diferentes a la mía.
@@ -9,7 +12,13 @@ En el futuro me veo involucrándome con la inteligencia artificial y desarrollan
 
 En el ámbito personal anhelo conocer culturas diferentes a la mía, como las originarias de Japón o Italia.
 
+</details>
+
 ------------
+
+<details close>
+<summary><b>English</b></summary>
+<br>
 My full name is Gino Rubén Giorgi, born on January 7, 1999. Originally from Rosario, Argentina. Passionate about hardware and software since childhood. My main skills are JavaScript, but I like to experiment with more advanced and weird technologies.
 
 I consider myself very perfectionist, I always try to deliver the best product possible, and I am interested in listening to and acquiring opinions different from mine.
@@ -19,6 +28,8 @@ In my free time I like to experiment and learn about operating systems, cook, an
 In the future I see myself getting involved with artificial intelligence and developing revolutionary technology.
 
 On a personal level, I long to get to know cultures different from mine, such as those originating from Japan or Italy.
+
+</details>
 
 ‎ ‎ 
 
