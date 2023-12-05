@@ -10,9 +10,9 @@ En el futuro me veo involucrándome con la inteligencia artificial y desarrollan
 En el ámbito personal anhelo conocer culturas diferentes a la mía, como las originarias de Japón o Italia.
 
 ------------
-My full name is Gino Rubén Giorgi, born on January 7, 1999. Originally from Rosario, Argentina. Passionate about hardware and software since he was a child. My main skills are JavaScript, but I like to experiment with more advanced and weird technologies.
+My full name is Gino Rubén Giorgi, born on January 7, 1999. Originally from Rosario, Argentina. Passionate about hardware and software since childhood. My main skills are JavaScript, but I like to experiment with more advanced and weird technologies.
 
-I consider myself a very perfectionist, I always try to deliver the best product possible, and I am interested in listening to and acquiring opinions different from mine.
+I consider myself very perfectionist, I always try to deliver the best product possible, and I am interested in listening to and acquiring opinions different from mine.
 
 In my free time I like to experiment and learn about operating systems, cook, and debate with friends about politics, economics, and video games.
 
