@@ -21,6 +21,7 @@ In the future I see myself getting involved with artificial intelligence and dev
 On a personal level, I long to get to know cultures different from mine, such as those originating from Japan or Italy.
 
 <h2 align="center">Experiencia‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Experience</h2>
+
 - Cursos de programación Full Stack realizados en la plataforma de Platzi https://platzi.com/.
 - Curso de Python de Coderhouse en https://www.coderhouse.com/
 - Titulo en Ingles de Misericordia School of English
