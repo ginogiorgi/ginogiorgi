@@ -1,8 +1,8 @@
 <p align="right"><a href="https://visitorbadge.io/status?path=ginogiorgi"><img src="https://api.visitorbadge.io/api/visitors?path=ginogiorgi&label=VISITANTES%2FVISITORS&labelColor=%23f47373&countColor=%23555555&style=flat-square&labelStyle=upper" /></a></p>
 
-<h1 align="center">
+<p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=F47373&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+welcome!;Hola%2C+bienvenido!" alt="Typing SVG" /></a>
-</h1>
+</p>
 
 <h1 align="center">🙋🏻‍♂Sobre mi‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎About me🙋🏻‍♂</h2>
 <details close>
