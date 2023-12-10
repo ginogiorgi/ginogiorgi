@@ -4,6 +4,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=F47373&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+welcome!;Hola%2C+bienvenido!" alt="Typing SVG" /></a>
 </p>
 
+<img src="https://github.com/ginogiorgi/ginogiorgi/blob/main/gitHub-cover.PNG?raw=true" />
+
 <h1 align="center">🙋🏻‍♂Sobre mi‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎About me🙋🏻‍♂</h2>
 <details close>
 <summary align="center"><h2>Español</h2></summary>
