@@ -92,7 +92,7 @@ On a personal level, I long to get to know cultures different from mine, such as
 <h1 align="center">📩Contacto‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Contact Me📩<h1/>
 <div align="center">
 <a href="https://twitter.com/ginogiorgi890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elques0s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gino-ruben-giorgi-307a4926a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gino ruben giorgi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ginorubengiorgi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gino ruben giorgi" height="30" width="40" /></a>
 <a href="https://instagram.com/ginogiorgi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ginogiorgi1" height="30" width="40" /></a>
 <div/>
 ‎ ‎ 
