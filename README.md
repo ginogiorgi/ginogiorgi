@@ -107,7 +107,7 @@ On a personal level, I long to get to know cultures different from mine, such as
             <img src="https://github-profile-trophy.vercel.app/?username=ginogiorgi&row=3&column=4&no-bg=true&theme=tokyonight"/>
         </td>
         <td align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginogiorgi&theme=tokyonight"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=ginogiorgi&theme=tokyonight" alt="GitHub Streak" />
         </td> 
     </tr>
     <tr>
