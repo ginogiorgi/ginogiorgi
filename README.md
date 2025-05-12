@@ -6,15 +6,16 @@
 
 <img src="https://github.com/ginogiorgi/ginogiorgi/blob/main/gitHub-cover.PNG?raw=true" />
 
-<h1 align="center">🙋🏻‍♂Sobre mi‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎About me🙋🏻‍♂</h1>
+<h1 align="center">🙋🏻‍♂Sobre mi‎/About me🙋🏻‍♂</h1>
 <details close>
 <summary align="left"><h2>Español</h2></summary>
 <br>
 <div align="left">
 Mi nombre completo es Gino Rubén Giorgi, nacido el 7 de enero de 1999. Soy de Rosario, Argentina. Apasionado del hardware y el software desde chico. Mis principales habilidades están centradas en JavaScript, aunque disfruto explorar tecnologías más avanzadas y poco convencionales.
+
 Siempre trato de entregar el mejor producto posible, y me interesa escuchar y adquirir opiniones diferentes a la mía.
 
-En mi tiempo libre me gusta experimentar y aprender sobre sistemas operativos, cocinar, y debatir con amigos sobre política, economía y videojuegos. 
+En mi tiempo libre me gusta experimentar y aprender sobre sistemas operativos, cocinar, y debatir con amigos sobre política, economía y videojuegos.
 
 En el futuro me veo involucrándome con la inteligencia artificial y desarrollando una tecnología revolucionaria.
 
@@ -44,7 +45,7 @@ On a personal level, I long to get to know cultures different from mine, such as
 
 ‎ ‎ 
 
-<h1 align="center">📚Experiencia‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Experience📚</h1>
+<h1 align="center">📚 Experience / Experiencia 📚</h1>
 <details close>
 <summary align="left"><h2>Español</h2></summary>
 <br>
