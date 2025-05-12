@@ -15,7 +15,7 @@
 <h1 align="center">🙋🏻‍♂ Sobre mi / About me 🙋🏻‍♂</h1>
 
 <details close>
-  <summary><strong>Español</strong></summary>
+  <summary><h2>Español</h2></summary>
   <br>
   <p>Mi nombre completo es Gino Rubén Giorgi, nacido el 7 de enero de 1999. Soy de Rosario, Argentina. Apasionado del hardware y el software desde chico. Mis principales habilidades están centradas en JavaScript, aunque disfruto explorar tecnologías más avanzadas y poco convencionales.</p>
 
@@ -31,7 +31,7 @@
 ---
 
 <details close>
-  <summary><strong>English</strong></summary>
+  <summary><h2>English</h2></summary>
   <br>
   <p>My full name is Gino Rubén Giorgi, born on January 7, 1999. Originally from Rosario, Argentina. I’ve been passionate about hardware and software since I was a kid. My main skills are in JavaScript, but I like to explore more advanced and unconventional technologies.</p>
 
@@ -47,7 +47,7 @@
 <h1 align="center">📚 Experience / Experiencia 📚</h1>
 
 <details close>
-  <summary><strong>Español</strong></summary>
+  <summary><h2>Español</h2></summary>
   <ul>
     <li>Título en inglés de Misericordia School of English (2016)</li>
     <li>Curso de Python de <a href="https://www.coderhouse.com/">Coderhouse</a> (2022)</li>
@@ -58,7 +58,7 @@
 ---
 
 <details close>
-  <summary><strong>English</strong></summary>
+  <summary><h2>English</h2></summary>
   <ul>
     <li>English language certificate from Misericordia School of English (2016)</li>
     <li>Python course at <a href="https://www.coderhouse.com/">Coderhouse</a> (2022)</li>
