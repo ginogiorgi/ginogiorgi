@@ -66,7 +66,21 @@
   </ul>
 </details>
 
-<h1 align="center">🛠️ Tech Stack</h1>
+<h1 align="center">📩 Contacto / Contact Me 📩</h1>
+
+<div align="center">
+  <a href="https://twitter.com/ginogiorgi890" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/ginorubengiorgi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ginogiorgi1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</div>
+
+<h1 align="center">🛠️ Tech Stack 🛠️</h1>
 <div align="center">
   <a href="https://developer.mozilla.org/docs/Web/HTML"    target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" width="40" height="40" alt="HTML5" />
@@ -109,20 +123,6 @@
   </a>
   <a href="https://www.postgresql.org/"                      target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  </a>
-</div>
-
-<h1 align="center">📩 Contacto / Contact Me 📩</h1>
-
-<div align="center">
-  <a href="https://twitter.com/ginogiorgi890" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ginorubengiorgi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ginogiorgi1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
 
