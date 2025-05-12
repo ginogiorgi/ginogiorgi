@@ -49,9 +49,11 @@
 <details close>
   <summary><h2>Español</h2></summary>
   <ul>
-    <li>Título en inglés de Misericordia School of English (2016)</li>
-    <li>Curso de Python de <a href="https://www.coderhouse.com/">Coderhouse</a> (2022)</li>
-    <li>Cursos Full Stack en <a href="https://platzi.com/">Platzi</a> (2023 – 2025)</li>
+    <li>Título de auxiliar bilingüe (español-inglés) de Misericordia School of English (2016)</li>
+    <li>Estudiante de Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional (UTN) (2020 – Actualidad)</li>
+    <li>Curso de Python en <a href="https://www.coderhouse.com/">Coderhouse</a> (2022)</li>
+    <li>Cursos de Desarrollo Full Stack en <a href="https://platzi.com/">Platzi</a> (2023 – 2025)</li>
+    <li>Autodidacta en programación (2023 – Actualidad)</li>
   </ul>
 </details>
 
@@ -60,9 +62,11 @@
 <details close>
   <summary><h2>English</h2></summary>
   <ul>
-    <li>English language certificate from Misericordia School of English (2016)</li>
-    <li>Python course at <a href="https://www.coderhouse.com/">Coderhouse</a> (2022)</li>
-    <li>Full Stack programming courses on <a href="https://platzi.com/">Platzi</a> (2023 – 2025)</li>
+    <li>Bilingual Spanish-English Assistant diploma from Misericordia School of English (2016)</li>
+    <li>Information Systems Engineering student at Universidad Tecnológica Nacional (UTN) (2020 – Present)</li>
+    <li>Python course on <a href="https://www.coderhouse.com/">Coderhouse</a> (2022)</li>
+    <li>Full Stack development courses on <a href="https://platzi.com/">Platzi</a> (2023 – 2025)</li>
+    <li>Self-taught programming (2023 – Present)</li>
   </ul>
 </details>
 
