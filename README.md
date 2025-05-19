@@ -135,7 +135,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=ginogiorgi&row=3&column=4&no-bg=true&theme=tokyonight"/>
+      <img src="https://leetcard.jacoblin.cool/ginogiorgi?theme=nord&font=Ubuntu&ext=heatmap"/>
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ginogiorgi&theme=tokyonight" alt="GitHub Streak" />
