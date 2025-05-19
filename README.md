@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://github.com/ginogiorgi/ginogiorgi/blob/main/gitHub-cover.PNG?raw=true" />
+<img src="https://raw.githubusercontent.com/ginogiorgi/ginogiorgi/refs/heads/main/gitHub-cover.JPG" />
 
 <h1 align="center">🙋🏻‍♂ Sobre mi / About me 🙋🏻‍♂</h1>
 
