@@ -138,15 +138,15 @@
       <img src="https://leetcard.jacoblin.cool/ginogiorgi?theme=catppuccinMocha&font=Ubuntu&ext=heatmap"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ginogiorgi&theme=tokyonight" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ginogiorgi&theme=tokyonight&short_numbers=true&card_width=499&card_height=319" alt="GitHub Streak" /></a>
     </td> 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&count_private=true&show_icons=true&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&count_private=true&show_icons=true&theme=tokyonight&card_width=499&card_height=319"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&langs_count=10&layout=compact&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&langs_count=10&layout=compact&theme=tokyonight&card_width=499&card_height=319"/>
     </td>
   </tr>
 </table>
