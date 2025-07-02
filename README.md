@@ -17,15 +17,13 @@
 <details close>
   <summary><h2>Español</h2></summary>
   <br>
-  <p>Mi nombre completo es Gino Rubén Giorgi, nacido el 7 de enero de 1999. Soy de Rosario, Argentina. Apasionado del hardware y el software desde chico. Mis principales habilidades están centradas en JavaScript, aunque disfruto explorar tecnologías más avanzadas y poco convencionales.</p>
+  <p>Mi nombre es Gino Rubén Giorgi, soy de Rosario, Argentina, y actualmente estudio Ingeniería en Sistemas de la Información en la UTN.</p>
 
-  <p>Siempre trato de entregar el mejor producto posible, y me interesa escuchar y adquirir opiniones diferentes a la mía.</p>
+  <p>Mis principales habilidades están centradas en el desarrollo Frontend con JavaScript, ya sea en su forma vanilla o usando frameworks como React y Tailwind. También cuento con conocimientos avanzados de Python.</p>
 
-  <p>En mi tiempo libre me gusta experimentar y aprender sobre sistemas operativos, cocinar, y debatir con amigos sobre política, economía y videojuegos.</p>
+  <p>Me considero una persona apasionada por la tecnología, curiosa y autodidacta, siempre en busca de nuevos desafíos y aprendizajes. En mi tiempo libre disfruto investigar sobre sistemas operativos, cocinar, y debatir con amigos sobre política, economía o videojuegos.</p>
 
-  <p>En el futuro me veo involucrándome con la inteligencia artificial y desarrollando una tecnología revolucionaria.</p>
-
-  <p>En el ámbito personal me interesa conocer culturas distintas a la mía, como las originarias de Japón o Italia.</p>
+  <p>Estoy abierto a oportunidades laborales tanto remotas como presenciales.</p>
 </details>
 
 ---
@@ -33,15 +31,13 @@
 <details close>
   <summary><h2>English</h2></summary>
   <br>
-  <p>My full name is Gino Rubén Giorgi, born on January 7, 1999. Originally from Rosario, Argentina. I’ve been passionate about hardware and software since I was a kid. My main skills are in JavaScript, but I like to explore more advanced and unconventional technologies.</p>
+  <p>My name is Gino Rubén Giorgi, I’m from Rosario, Argentina, and I’m currently studying Information Systems Engineering at UTN.</p>
 
-  <p>I always try to deliver the best product possible, and I am interested in listening to and learning from perspectives different from mine.</p>
+  <p>My main skills are focused on Frontend development with JavaScript—both vanilla and frameworks like React and Tailwind. I also have advanced knowledge of Python.</p>
 
-  <p>In my free time I enjoy experimenting and learning about operating systems, cooking, and debating with friends about politics, economics, and video games.</p>
+  <p>I’m a passionate, curious, and self-taught person who’s always looking for new challenges and ways to learn. In my free time, I enjoy exploring operating systems, cooking, and discussing politics, economics, or video games with friends.</p>
 
-  <p>In the future I see myself getting involved with artificial intelligence and developing revolutionary technology.</p>
-
-  <p>On a personal level, I’m eager to learn about cultures different from mine, such as those originating from Japan or Italy.</p>
+  <p>I’m available for both remote and on-site job opportunities.</p>
 </details>
 
 <h1 align="center">📚 Experience / Experiencia 📚</h1>
