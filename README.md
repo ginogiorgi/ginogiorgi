@@ -173,7 +173,7 @@
       <img src="https://leetcard.jacoblin.cool/ginogiorgi?theme=catppuccinMocha&font=Ubuntu&ext=heatmap"/>
     </td>
     <td align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ginogiorgi&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ginogiorgi&theme=tokyonight&disable_animations=false&show_icons=true&force_username=true"/>
     </td>
   </tr>
   <tr>
