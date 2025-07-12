@@ -28,7 +28,7 @@
   <p>Estoy abierto a oportunidades laborales tanto remotas como presenciales.</p>
 </details>
 
----
+<br/><br/>
 
 <details close>
   <summary><h2>English</h2></summary>
@@ -66,7 +66,7 @@
   </ul>
 </details>
 
----
+<br/><br/>
 
 <details close>
   <summary><h2>English</h2></summary>
