@@ -21,7 +21,7 @@
   <br>
   <p>Mi nombre es Gino Rubén Giorgi, soy de Rosario, Argentina, y actualmente estudio Ingeniería en Sistemas de la Información en la UTN.</p>
 
-  <p>Mis principales habilidades están centradas en el desarrollo Frontend con JavaScript, ya sea en su forma vanilla o usando frameworks como React y Tailwind. También cuento con conocimientos avanzados de Python.</p>
+  <p>Mis principales habilidades están centradas en Frontend con JavaScript Vanilla y con Frameworks como React y Tailwind. Además, dispongo conocimientos avanzados de Python.</p>
 
   <p>Me considero una persona apasionada por la tecnología, curiosa y autodidacta, siempre en busca de nuevos desafíos y aprendizajes. En mi tiempo libre disfruto investigar sobre sistemas operativos, cocinar, y debatir con amigos sobre política, economía o videojuegos.</p>
 
@@ -44,7 +44,7 @@
 
 <br/><br/>
 
-<h1 align="center">📚 Experience / Experiencia 📚</h1>
+<h1 align="center">📚 Academic Education / Educación Académica 📚</h1>
 
 <details close>
   <summary><h2>Español</h2></summary>
@@ -54,15 +54,15 @@
   <p>Desde marzo de 2023, me he sumergido en el desarrollo web. Este tiempo ha sido clave para mi crecimiento, permitiéndome mejorar y aprender sobre diversas tecnologías y herramientas.</p>
 
   <ul>
-    <li>Curso de Python en Coderhouse (marzo 2022 – junio 2022)</li>
-    <li>Cursos de Desarrollo Full Stack en Platzi (marzo 2023 – diciembre 2024)</li>
+    <li>Curso de Python en  <a href="https://raw.githubusercontent.com/ginogiorgi/degrees/refs/heads/main/62d4793b43a483002464bd91.png">Coderhouse</a> (marzo 2022 – junio 2022)</li>
+    <li>Cursos de Desarrollo Full Stack en <a href="https://github.com/ginogiorgi/degrees/blob/main/diploma-javascript-full-stack.pdf">Platzi</a> (marzo 2023 – diciembre 2024)</li>
   </ul>
 
   <h2>Estudiante de Ingeniería en Sistemas de la Información (UTN) <span style="float:right; font-weight:normal;">Marzo 2021 – Presente</span></h2>
   <p>Durante la carrera, aprendí fundamentos sólidos de programación, bases de datos y arquitectura de software, junto con habilidades en análisis de sistemas y gestión de proyectos tecnológicos. Actualmente cursando el 3er año.</p>
 
   <ul>
-    <li>Capacitación como competidor ICPC y participación en el Torneo Argentino (agosto 2025)</li>
+    <li>Capacitación como competidor ICPC para la participación en el Torneo Argentino 2025 (actualmente)</li>
   </ul>
 </details>
 
@@ -76,15 +76,15 @@
   <p>Since March 2023, I’ve been deeply immersed in web development. This time has been key to my growth, helping me improve and explore various technologies and tools.</p>
 
   <ul>
-    <li>Python course at Coderhouse (March 2022 – June 2022)</li>
-    <li>Full Stack development courses at Platzi (March 2023 – December 2024)</li>
+    <li>Python course at <a href="https://raw.githubusercontent.com/ginogiorgi/degrees/refs/heads/main/62d4793b43a483002464bd91.png">Coderhouse</a> (March 2022 – June 2022)</li>
+    <li>Full Stack development courses at <a href="https://github.com/ginogiorgi/degrees/blob/main/diploma-javascript-full-stack.pdf">Platzi</a> (March 2023 – December 2024)</li>
   </ul>
 
   <h2>Information Systems Engineering Student (UTN) <span style="float:right; font-weight:normal;">March 2021 – Present</span></h2>
   <p>Throughout the degree, I’ve built strong foundations in programming, databases, and software architecture, as well as skills in systems analysis and tech project management. Currently in my 3rd year.</p>
 
   <ul>
-    <li>ICPC training and participation in the Argentinian Tournament (August 2025)</li>
+    <li>ICPC Competitor Training for Participation in the 2025 Argentine Tournament (current)</li>
   </ul>
 </details>
 
