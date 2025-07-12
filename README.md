@@ -178,7 +178,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&count_private=true&show_icons=true&theme=tokyonight&card_width=499&card_height=319"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&count_private=true&show_icons=true&theme=tokyonight"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&langs_count=10&layout=compact&theme=tokyonight&card_width=499&card_height=319"/>
