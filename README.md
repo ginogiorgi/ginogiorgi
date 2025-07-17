@@ -178,7 +178,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&count_private=true&show_icons=true&theme=tokyonight"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&size_weight=0&count_weight=1&theme=tokyonight&card_width=499&card_height=319&langs_count=6&hide=css"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&size_weight=0.5&count_weight=0.5&theme=tokyonight&card_width=499&card_height=319&langs_count=6&hide=css&exclude_repo=proyectoCoderFinal"/>
     </td>
   </tr>
 </table>
