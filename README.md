@@ -165,20 +165,20 @@
 <h1 align="center">💪🏻 My GitHub Stats 💪🏻</h1>
 
 <table>
+    <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ginogiorgi&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=499&card_height=100" alt="GitHub Streak" /></a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&langs_count=6&hide=css&exclude_repo=proyectoCoderFinal&card_width=380&card_height=100"/>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://leetcard.jacoblin.cool/ginogiorgi?theme=catppuccinMocha&font=Ubuntu&ext=heatmap"/>
     </td>
     <td align="center">
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ginogiorgi&theme=tokyonight&disable_animations=false&show_icons=true&force_username=true"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&count_private=true&show_icons=true&theme=tokyonight"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&size_weight=0.5&count_weight=0.5&theme=tokyonight&card_width=499&card_height=319&langs_count=6&hide=css&exclude_repo=proyectoCoderFinal"/>
     </td>
   </tr>
 </table>
