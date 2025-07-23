@@ -76,27 +76,68 @@
   <li>Competitive programming training (ICPC) for participation in the Argentine Tournament 2025 (July 2025)</li>
 </ul>
 
-</details>
-
-<br/>
-
 <h2 align="left">Tech Stack 🛠️</h2>
 
-<summary><b>:desktop_computer: Frontend</b></summary>
-<br>
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs&theme=dark" alt="frontend skills" />
+<h3>:desktop_computer: Frontend</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40"/>
+</a>
+<a href="https://threejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="40"/>
+</a>
 
-<summary><b>:gear: Backend</b></summary>
-<br>
-<img align="center" src="https://skillicons.dev/icons?i=nodejs,express,sequelize,python&theme=dark" alt="backend skills" />
+<h3>:gear: Backend</h3>
 
-<summary><b>:floppy_disk: Databases</b></summary>
-<br>
-<img align="center" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="database skills" />
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="40"/>
+</a>
+<a href="https://sequelize.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sequelize&theme=dark" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
+</a>
 
-<summary><b>:hammer_and_wrench: Tools & Others</b></summary>
-<br>
-<img align="center" src="https://skillicons.dev/icons?i=git,github,linux,markdown,figma&theme=dark" alt="tools skills" />
+<h3>:floppy_disk: Databases</h3>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40"/>
+</a>
+
+<h3>:hammer_and_wrench: Tools & Others</h3>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40"/>
+</a>
+<a href="https://www.markdownguide.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=markdown&theme=dark" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"/>
+</a>
+
+</details>
 
 <br/>
 
