@@ -11,16 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ginogiorgi/ginogiorgi/refs/heads/main/gitHub-cover.JPG" width="700" height="auto" />
+  <img src="./gitHub-cover.jpeg" width="700" height="auto" />
 </p>
 
-<br/><br/>
-
-<h1 align="center">🙋🏻‍♂ Sobre mi / About me 🙋🏻‍♂</h1>
+<br/>
 
 <details close>
-  <summary><h2>Español</h2></summary>
-  <br>
+
+<summary><h1>Español </h1></summary>
+<br/>
+<h2 align="left">Sobre mi 🙋🏻‍♂</h2>
+  
   <p>Mi nombre es Gino Rubén Giorgi, soy de Rosario, Argentina, y actualmente estudio Ingeniería en Sistemas de la Información en la UTN.</p>
 
   <p>Mis principales habilidades están centradas en Frontend con JavaScript Vanilla y con Frameworks como React y Tailwind. Además, dispongo conocimientos avanzados de Python.</p>
@@ -28,11 +29,31 @@
   <p>Me considero una persona apasionada por la tecnología, curiosa y autodidacta, siempre en busca de nuevos desafíos y aprendizajes. En mi tiempo libre disfruto investigar sobre sistemas operativos, cocinar, y debatir con amigos sobre política, economía o videojuegos.</p>
 
   <p>Estoy abierto a oportunidades laborales tanto remotas como presenciales.</p>
+
+<h2 align="left">Educación Académica 📚</h2>
+
+  <h3>Aprendizaje autodidacta</h3>
+  <ul>
+    <li>Curso de Python en  <a href="https://raw.githubusercontent.com/ginogiorgi/degrees/refs/heads/main/62d4793b43a483002464bd91.png">Coderhouse</a> (marzo 2022 – junio 2022)</li>
+    <li>Cursos de Desarrollo Full Stack en <a href="https://github.com/ginogiorgi/degrees/blob/main/diploma-javascript-full-stack.pdf">Platzi</a> (marzo 2023 – diciembre 2024)</li>
+  </ul>
+
+  <h3>Capacitación académica</h3>
+  <ul>
+    <li>Estudiante de ingeniería en sistemas de la información en la U.T.N. Rosario. Actualmente cursando  4to año (Marzo 2021 - Presente)</li>
+    <li>Formación en programación competitiva (ICPC) para la participación en el Torneo Argentino 2025 (Julio 2025)</li>
+  </ul>
+
 </details>
 
+<br/>
+
 <details close>
-  <summary><h2>English</h2></summary>
-  <br>
+
+<summary><h1>English</h1></summary>
+<br/>
+<h2 align="left">About me 🙋🏻‍♂</h2>
+
   <p>My name is Gino Rubén Giorgi, I’m from Rosario, Argentina, and I’m currently studying Information Systems Engineering at UTN.</p>
 
   <p>My main skills are focused on Frontend development with JavaScript—both vanilla and frameworks like React and Tailwind. I also have advanced knowledge of Python.</p>
@@ -40,72 +61,26 @@
   <p>I’m a passionate, curious, and self-taught person who’s always looking for new challenges and ways to learn. In my free time, I enjoy exploring operating systems, cooking, and discussing politics, economics, or video games with friends.</p>
 
   <p>I’m available for both remote and on-site job opportunities.</p>
-</details>
 
-<br/><br/>
+<h2 align="left">Academic Education 📚</h2>
 
-<h1 align="center">📚 Academic Education / Educación Académica 📚</h1>
-
-<details close>
-  <summary><h2>Español</h2></summary>
-  <br>
-
-  <h2>Aprendizaje autodidacta <span style="float:right; font-weight:normal;">Marzo 2022 – Presente</span></h2>
-  <p>Desde marzo de 2023, me he sumergido en el desarrollo web. Este tiempo ha sido clave para mi crecimiento, permitiéndome mejorar y aprender sobre diversas tecnologías y herramientas.</p>
-
-  <ul>
-    <li>Curso de Python en  <a href="https://raw.githubusercontent.com/ginogiorgi/degrees/refs/heads/main/62d4793b43a483002464bd91.png">Coderhouse</a> (marzo 2022 – junio 2022)</li>
-    <li>Cursos de Desarrollo Full Stack en <a href="https://github.com/ginogiorgi/degrees/blob/main/diploma-javascript-full-stack.pdf">Platzi</a> (marzo 2023 – diciembre 2024)</li>
-  </ul>
-
-  <h2>Estudiante de Ingeniería en Sistemas de la Información (UTN) <span style="float:right; font-weight:normal;">Marzo 2021 – Presente</span></h2>
-  <p>Durante la carrera, aprendí fundamentos sólidos de programación, bases de datos y arquitectura de software, junto con habilidades en análisis de sistemas y gestión de proyectos tecnológicos. Actualmente cursando el 3er año.</p>
-
-  <ul>
-    <li>Capacitación como competidor ICPC para la participación en el Torneo Argentino 2025 (actualmente)</li>
-  </ul>
-</details>
-
-
-<details close>
-  <summary><h2>English</h2></summary>
-  <br>
-
-  <h2>Self-Taught Learning <span style="float:right; font-weight:normal;">March 2022 – Present</span></h2>
-  <p>Since March 2023, I’ve been deeply immersed in web development. This time has been key to my growth, helping me improve and explore various technologies and tools.</p>
-
+  <h3>Self-Taught Learning</h3>
   <ul>
     <li>Python course at <a href="https://raw.githubusercontent.com/ginogiorgi/degrees/refs/heads/main/62d4793b43a483002464bd91.png">Coderhouse</a> (March 2022 – June 2022)</li>
     <li>Full Stack development courses at <a href="https://github.com/ginogiorgi/degrees/blob/main/diploma-javascript-full-stack.pdf">Platzi</a> (March 2023 – December 2024)</li>
   </ul>
 
-  <h2>Information Systems Engineering Student (UTN) <span style="float:right; font-weight:normal;">March 2021 – Present</span></h2>
-  <p>Throughout the degree, I’ve built strong foundations in programming, databases, and software architecture, as well as skills in systems analysis and tech project management. Currently in my 3rd year.</p>
-
+  <h2>Academic training</h2>
   <ul>
-    <li>ICPC Competitor Training for Participation in the 2025 Argentine Tournament (current)</li>
+    <li>Systems engineer student at U.T.N. Rosario. Currently in fourth year (March 2021 - Present).</li>
+    <li>ICPC Competitor Training for Participation in the 2025 Argentine Tournament (July 2025)</li>
   </ul>
+
 </details>
 
-<br/><br/>
+<br/>
 
-<h1 align="center">📩 Contacto / Contact Me 📩</h1>
-
-<div align="center">
-  <a href="https://twitter.com/ginogiorgi890" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ginorubengiorgi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ginogiorgi1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</div>
-
-<br/><br/>
-
-<h1 align="center">🛠️ Tech Stack 🛠️</h1>
+<h2 align="left">Tech Stack 🛠️</h2>
 
 <div align="center">
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
@@ -159,7 +134,9 @@
   </a>
 </div>
 
-<h1 align="center">💪🏻 My GitHub Stats 💪🏻</h1>
+<br/>
+
+<h2 align="left">My GitHub Stats 💪🏻</h2>
 
 <table>
     <tr>
