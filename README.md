@@ -44,6 +44,67 @@
   <li>Formación en programación competitiva (ICPC) para la participación en el Torneo Argentino 2025 (julio 2025)</li>
 </ul>
 
+<h2 align="left">Tecnologías 🛠️</h2>
+
+<h3>:desktop_computer: Frontend</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40"/>
+</a>
+<a href="https://threejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="40"/>
+</a>
+
+<h3>:gear: Backend</h3>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="40"/>
+</a>
+<a href="https://sequelize.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sequelize&theme=dark" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
+</a>
+
+<h3>:floppy_disk: Bases de Datos</h3>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40"/>
+</a>
+
+<h3>:hammer_and_wrench: Herramientas y Otros</h3>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40"/>
+</a>
+<a href="https://www.markdownguide.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=markdown&theme=dark" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"/>
+</a>
+
 </details>
 
 <br/>
@@ -141,7 +202,7 @@
 
 <br/>
 
-<h2 align="left">My GitHub Stats 💪🏻</h2>
+<h1 align="left">My GitHub Stats 💪🏻</h1>
 
 <table>
   <tr>
