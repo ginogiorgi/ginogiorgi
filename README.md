@@ -10,7 +10,9 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/ginogiorgi/ginogiorgi/refs/heads/main/gitHub-cover.JPG" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ginogiorgi/ginogiorgi/refs/heads/main/gitHub-cover.JPG" width="700" height="auto" />
+</p>
 
 <br/><br/>
 
