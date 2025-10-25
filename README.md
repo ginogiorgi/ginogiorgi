@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./gitHub-cover.jpeg" width="700" height="auto" />
-</p>
-
 <br/>
 
 <h1>Español</h1>
