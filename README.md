@@ -11,6 +11,9 @@
 - 🏢 Co-founder & developer at **[Pyrux](https://www.pyrux.com.ar)** — web development and digital solutions
 - 🎓 Information Systems Engineering at **UTN Rosario** (4th year)
 - 🏆 ICPC competitive programming training — Argentine Tournament 2025
+- 🐧 Arch Linux + Hyprland daily driver — configs in **[dotfiles](https://github.com/ginogiorgi/dotfiles)**
+- 🎮 Building a Minecraft clone with Three.js for fun — **[play it](https://ginogiorgi.github.io/minecraft/)**
+- 🌱 Currently focused on landing Pyrux's first clients and shipping real products
 
 <br/>
 
@@ -31,10 +34,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ginogiorgi&theme=github_dark"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&show_icons=true&include_all_commits=true&bg_color=0d0d0d&title_color=e01f2d&icon_color=e01f2d&text_color=f0f0f0&border_color=e01f2d"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginogiorgi&theme=github_dark"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&layout=compact&bg_color=0d0d0d&title_color=e01f2d&text_color=f0f0f0&border_color=e01f2d&hide=css&exclude_repo=proyectoCoderFinal&langs_count=6"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=ginogiorgi&theme=radical&no-bg=true&no-frame=true&row=1&column=6&margin-w=8"/>
     </td>
   </tr>
 </table>
