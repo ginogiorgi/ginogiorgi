@@ -31,7 +31,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginogiorgi&theme=dracula"/>
+      <img src="https://streak-stats.demolab.com?user=ginogiorgi&theme=dark&background=0d0d0d&border=e01f2d&stroke=e01f2d&ring=e01f2d&fire=a8111d&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=e01f2d&sideLabels=e01f2d&dates=666666" alt="GitHub Streak"/>
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ginogiorgi&theme=dracula"/>
@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=ginogiorgi&theme=dark&background=0d0d0d&border=e01f2d&stroke=e01f2d&ring=e01f2d&fire=a8111d&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=e01f2d&sideLabels=e01f2d&dates=666666" alt="GitHub Streak"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginogiorgi&theme=dracula"/>
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ginogiorgi&theme=dracula"/>
