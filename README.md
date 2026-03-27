@@ -13,7 +13,8 @@
 - 🏆 ICPC competitive programming training — Argentine Tournament 2025
 - 🐧 Arch Linux + Hyprland daily driver — configs in **[dotfiles](https://github.com/ginogiorgi/dotfiles)**
 - 🎮 Building a Minecraft clone with Three.js for fun — **[play it](https://ginogiorgi.github.io/minecraft/)**
-- 🌱 Currently focused on landing Pyrux's first clients and shipping real products
+- 🤖 Exploring AI integration — building LLM-powered features into client products
+- 🍳 **Off screen** — decent cook, strong opinions on politics & economics, and a bad habit of falling into video game rabbit holes at midnight
 
 <br/>
 
