@@ -28,10 +28,6 @@
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ginogiorgi&theme=dark&background=0d0d0d&border=e01f2d&stroke=e01f2d&ring=e01f2d&fire=a8111d&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=e01f2d&sideLabels=e01f2d&dates=666666&card_width=460" alt="GitHub Streak"/>
-</p>
-
 <table align="center">
   <tr>
     <td>
@@ -43,7 +39,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ginogiorgi&theme=dracula&utcOffset=-3"/>
+      <img src="https://streak-stats.demolab.com?user=ginogiorgi&theme=dark&background=0d0d0d&border=e01f2d&stroke=e01f2d&ring=e01f2d&fire=a8111d&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=e01f2d&sideLabels=e01f2d&dates=666666" alt="GitHub Streak"/>
     </td>
     <td>
       <img src="https://github-profile-trophy.vercel.app/?username=ginogiorgi&theme=radical&no-bg=true&no-frame=true&row=1&column=4&margin-w=4"/>
