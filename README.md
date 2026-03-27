@@ -34,7 +34,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ginogiorgi&theme=dracula"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginogiorgi&theme=dracula"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginogiorgi&theme=dracula"/>
     </td>
   </tr>
   <tr>
