@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:1c0407,100:e01f2d&height=180&section=header&text=Gino%20Giorgi&fontSize=60&fontColor=f0f0f0&fontAlignY=45&desc=Co-founder%20%40%20Pyrux%20%7C%20Full-Stack%20Developer%20%26%20Systems%20Engineer&descSize=17&descAlignY=68&descFontColor=f0f0f0&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:1c0407,100:e01f2d&height=180&section=header&text=Gino%20Giorgi&fontSize=60&fontColor=f0f0f0&fontAlignY=45&desc=Co-founder%20at%20Pyrux%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Engineer&descSize=17&descAlignY=68&descFontColor=f0f0f0&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=e01f2d&center=true&vCenter=true&width=500&lines=Building+products+at+Pyrux;Next.js+%7C+React+%7C+TypeScript" alt="Typing SVG"/>
@@ -31,10 +31,10 @@
 <table align="center">
   <tr>
     <td>
-      <img height="155" src="https://github-readme-stats.vercel.app/api?username=ginogiorgi&show_icons=true&include_all_commits=true&bg_color=0d0d0d&title_color=e01f2d&icon_color=e01f2d&text_color=f0f0f0&border_color=e01f2d"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ginogiorgi&theme=github_dark"/>
     </td>
     <td>
-      <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginogiorgi&layout=compact&bg_color=0d0d0d&title_color=e01f2d&text_color=f0f0f0&border_color=e01f2d&hide=css&exclude_repo=proyectoCoderFinal&langs_count=6"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginogiorgi&theme=github_dark"/>
     </td>
   </tr>
 </table>
